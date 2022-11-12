@@ -25,4 +25,5 @@
 
 ## Accuracy
 
+* [textPage](accuracy/textpage.md)
 * [现在使用 Transformer 的论文模型](accuracy/xian-zai-shi-yong-transformer-de-lun-wen-mo-xing.md)
