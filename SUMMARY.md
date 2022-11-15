@@ -25,6 +25,4 @@
 
 ## Accuracy
 
-* [textPage](accuracy/textpage.md)
-* [现在使用 Transformer 的论文模型](accuracy/xian-zai-shi-yong-transformer-de-lun-wen-mo-xing.md)
-* [使用transformer模型的骨架行为识别准确率](accuracy/使用transformer模型的骨架行为识别准确率.md)
+* [使用 Transformer 模型的骨架行为识别准确率](accuracy/使用transformer模型的骨架行为识别准确率.md)
