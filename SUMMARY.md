@@ -19,9 +19,9 @@
 * [🤝 How we Work Together](collaborating/how-we-work-together.md)
 * [📅 Meetings](collaborating/meetings.md)
 
-## Policies
+## Resources
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [💿 PPTs](resources/requesting-time-off.md)
 
 ## Accuracy
 
