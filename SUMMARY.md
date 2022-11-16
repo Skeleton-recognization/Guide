@@ -30,5 +30,4 @@
 
 ## Accuracy
 
-* [Page 1](accuracy/page-1.md)
 * [使用 Transformer 模型的骨架行为识别准确率](accuracy/使用transformer模型的骨架行为识别准确率.md)
