@@ -26,7 +26,7 @@
 ## Knowledge
 
 * [lr和batchsize的关系](knowledge/lr和batchsize的关系.md)
-* [门控循环单元](knowledge/'门控循环单元(GRU).md')
+* [门控循环单元](knowledge/门控循环单元(GRU).md)
 
 ## Accuracy
 
