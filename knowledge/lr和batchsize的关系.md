@@ -15,7 +15,7 @@ $$
 w_{t+1} = w_t - \eta  \frac{1}{n} \sum_{x \in B} \nabla l(x, w_t)
 $$
 
-其中: $$\eta$$ 为学习率，$$n$$ 为 Batchsize 大小，$$\nabla l(x, w_t)$$ 为一次训练所得的 loss 值的梯度。<br>
+其中: $\eta$ 为学习率，$n$ 为 Batchsize 大小，$\nabla l(x, w_t)$ 为一次训练所得的 loss 值的梯度。<br>
 如果可以假设 $\nabla l(x, w_t)$ 在任意 t 都近似相等，则 $\eta$ 与 $n$ 即为等比关系。
 
 **当然，这样的假设太过牵强，有人提出相关其他假设，或者从梯度方差考虑(这种方法推荐 batchsize 和 lr 的放缩关系为 $k : \sqrt{k}$)。**
