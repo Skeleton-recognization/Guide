@@ -23,6 +23,14 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence(CCF A)
 Sym-GNN
 {% endembed %}
 
+**MnasNet: Platform-Aware Neural Architecture Search for Mobile**
+
+IEEE Conference on Computer Vision and Pattern Recognition(CCF A)
+
+{% embed url="https://docs.google.com/presentation/d/1qAqZYlJqCzmuDsuatBonwGO6guK8f6XM8NNf2rlllKc/edit?usp=sharing" %}
+MnasNet
+{% endembed %}
+
 {% hint style="info" %}
 **GitBook tip:** you can embed public links, like a Typeform, to make data capture a breeze. Paste a URL below and try it out.
 {% endhint %}
