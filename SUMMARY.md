@@ -28,6 +28,10 @@
 * [lr和batchsize的关系](knowledge/lr和batchsize的关系.md)
 * [门控循环单元](knowledge/门控循环单元\(GRU\).md)
 
+## Kits
+
+* [LaTeX](kits/Latex.md)
+
 ## Accuracy
 
 * [使用 Transformer 模型的骨架行为识别准确率](accuracy/使用transformer模型的骨架行为识别准确率.md)
