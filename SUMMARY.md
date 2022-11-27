@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Welcome!](README.md)
+* [学习路径](./%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84.md)
 
 ## About us
 
