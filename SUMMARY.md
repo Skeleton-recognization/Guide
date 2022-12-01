@@ -32,6 +32,7 @@
 ## Kits
 
 * [LaTeX](kits/Latex.md)
+* [可视化分析](kits/可视化分析.md)
 
 ## Accuracy
 
