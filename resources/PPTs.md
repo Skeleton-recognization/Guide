@@ -31,6 +31,14 @@ IEEE Conference on Computer Vision and Pattern Recognition(CCF A)
 MnasNet
 {% endembed %}
 
+**STST: Spatial-Temporal Specialized Transformer for Skeleton-based Action Recognition**
+
+The 29th ACM International Conference on Multimedia(CCF A)
+
+{% embed url="https://docs.google.com/presentation/d/1eiB6Je1Il4snfptO8WiFrLEidNn3PrfqxnuBJSRACxk/edit?usp=sharing" %}
+STST
+{% endembed %}
+
 {% hint style="info" %}
 **GitBook tip:** you can embed public links, like a Typeform, to make data capture a breeze. Paste a URL below and try it out.
 {% endhint %}

@@ -26,7 +26,7 @@
 
 ## Knowledge
 
-* [图卷积操作(GCN)](knowledge/%E5%9B%BE%E5%8D%B7%E7%A7%AF%E6%93%8D%E4%BD%9C(GCN).md)
+* [图卷积操作(GCN)](knowledge/图卷积操作\(GCN\).md)
 * [lr和batchsize的关系](knowledge/lr和batchsize的关系.md)
 * [门控循环单元](knowledge/门控循环单元\(GRU\).md)
 
