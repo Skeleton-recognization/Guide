@@ -29,6 +29,7 @@
 * [图卷积操作(GCN)](knowledge/图卷积操作\(GCN\).md)
 * [lr和batchsize的关系](knowledge/lr和batchsize的关系.md)
 * [门控循环单元](knowledge/门控循环单元\(GRU\).md)
+* [自监督学习和无监督学习](knowledge/%E8%87%AA%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0.md)
 
 ## Kits
 
